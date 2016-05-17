@@ -1,7 +1,7 @@
 # alpha_ZnCrII_2016
 <a href="https://zenodo.org/badge/latestdoi/20001/MTMurphy77/alpha_ZnCrII_2016"><img src="https://zenodo.org/badge/20001/MTMurphy77/alpha_ZnCrII_2016.svg" alt="10.5281/zenodo.51504"></a>
 
-Quasar spectra and absorption profile fits associated with Murphy, Malec &amp; Prochaska (2016, MNRAS, submitted).
+Quasar spectra and absorption profile fits associated with Murphy, Malec &amp; Prochaska (2016, to be submitted to MNRAS).
 
 Read this README, and view/downaload/use the files within this repository, in conjunction with a careful read of the paper itself (Murphy, Malec &amp; Prochaska, 2016, as above).
 
