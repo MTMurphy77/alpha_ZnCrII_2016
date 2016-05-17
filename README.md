@@ -1,11 +1,11 @@
 # alpha_ZnCrII_2016
-https://zenodo.org/badge/20001/MTMurphy77/alpha_ZnCrII_2016.svg
+<a href="https://zenodo.org/badge/latestdoi/20001/MTMurphy77/alpha_ZnCrII_2016"><img src="https://zenodo.org/badge/20001/MTMurphy77/alpha_ZnCrII_2016.svg" alt="10.5281/zenodo.51504"></a>
 
 Quasar spectra and absorption profile fits associated with Murphy, Malec &amp; Prochaska (2016, MNRAS, submitted).
 
 Read this README, and view/downaload/use the files within this repository, in conjunction with a careful read of the paper itself (Murphy, Malec &amp; Prochaska, 2016, as above).
 
-If you use any of the materials in this repository, please cite the paper. If you want to cite only the data and/or fits (for some reason), please use the DOI: https://zenodo.org/badge/20001/MTMurphy77/alpha_ZnCrII_2016.svg
+If you use any of the materials in this repository, please cite the paper. If you want to cite only the data and/or fits (for some reason), please use the DOI: <a href="https://zenodo.org/badge/latestdoi/20001/MTMurphy77/alpha_ZnCrII_2016"><img src="https://zenodo.org/badge/20001/MTMurphy77/alpha_ZnCrII_2016.svg" alt="10.5281/zenodo.51504"></a>
 
 The paper is available at the following websites, in published or pre-print form:
 &ndash; arXiv.org: [LINK TDB]<br>
