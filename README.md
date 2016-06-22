@@ -8,7 +8,7 @@ Read this README, and view/downaload/use the files within this repository, in co
 If you use any of the materials in this repository, please cite the paper. If you want to cite only the data and/or fits (for some reason), please use the DOI: <a href="https://zenodo.org/badge/latestdoi/20001/MTMurphy77/alpha_ZnCrII_2016"><img src="https://zenodo.org/badge/20001/MTMurphy77/alpha_ZnCrII_2016.svg" alt="10.5281/zenodo.51504"></a>
 
 The paper is available at the following websites, in published or pre-print form:<br>
-&ndash; arXiv.org: [LINK TDB]<br>
+&ndash; arXiv.org: http://arxiv.org/abs/1606.06293<br>
 &ndash; MNRAS (via DOI): http://dx.doi.org/10.1093/mnras/stw1482<br>
 &ndash; NASA/ADS: [LINK TDB]<br>
 
