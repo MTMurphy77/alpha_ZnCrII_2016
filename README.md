@@ -1,16 +1,16 @@
 # alpha_ZnCrII_2016
 <a href="https://zenodo.org/badge/latestdoi/20001/MTMurphy77/alpha_ZnCrII_2016"><img src="https://zenodo.org/badge/20001/MTMurphy77/alpha_ZnCrII_2016.svg" alt="10.5281/zenodo.51504"></a>
 
-Quasar spectra and absorption profile fits associated with Murphy, Malec &amp; Prochaska (2016, MNRAS, accepted, doi:10.5281/zenodo.51504).
+Quasar spectra and absorption profile fits associated with Murphy, Malec &amp; Prochaska (2016, MNRAS, 461, 2461, <a href="http://dx.doi.org/10.1093/mnras/stw1482">doi:10.5281/zenodo.51504</a>, <a href="http://arxiv.org/abs/1606.06293">arXiv:1606.06293</a>).
 
-Read this README, and view/downaload/use the files within this repository, in conjunction with a careful read of the paper itself (Murphy, Malec &amp; Prochaska, 2016).
+Read this README, and view/downaload/use the files within this repository, in conjunction with a careful read of the paper itself (Murphy, Malec &amp; Prochaska 2016).
 
 If you use any of the materials in this repository, please cite the paper. If you want to cite only the data and/or fits (for some reason), please use the DOI: <a href="https://zenodo.org/badge/latestdoi/20001/MTMurphy77/alpha_ZnCrII_2016"><img src="https://zenodo.org/badge/20001/MTMurphy77/alpha_ZnCrII_2016.svg" alt="10.5281/zenodo.51504"></a>
 
 The paper is available at the following websites, in published or pre-print form:<br>
 &ndash; arXiv.org: http://arxiv.org/abs/1606.06293<br>
 &ndash; MNRAS (via DOI): http://dx.doi.org/10.1093/mnras/stw1482<br>
-&ndash; NASA/ADS: [LINK TDB]<br>
+&ndash; NASA/ADS: http://adsabs.harvard.edu/abs/2016MNRAS.461.2461M<br>
 
 This repository contains a folder for each quasar spectrum, named using the quasar name (used in the paper) and the spectrograph on which it was observed (Keck/HIRES or VLT/UVES). For example, J0058+0041_HIRES.
 
@@ -24,6 +24,6 @@ Each redshift folder contains the following files:<br>
 
 The absorption profile fit was run in VPFIT using the commented-out command in the first line of the fit.f13 file.
 
-The input atomic data file for VPFIT was the MM_VPFIT_2013-11-10.dat file from the <a href="https://github.com/MTMurphy77/MMatomdat">repository</a> associated with <a href="http://adsabs.harvard.edu/abs/2014MNRAS.438..388M">Murphy & Berengut (2014, MNRAS, 438, 388, arXiv:1311.2949)</a>.
+The input atomic data file used for all the fits is included as MM_VPFIT_2013-11-10_wCr2026.dat. This is the file for VPFIT (MM_VPFIT_2013-11-10.dat) from the <a href="https://github.com/MTMurphy77/MMatomdat">repository</a> associated with <a href="http://adsabs.harvard.edu/abs/2014MNRAS.438..388M">Murphy & Berengut (2014, MNRAS, 438, 388, arXiv:1311.2949)</a> augmented with the atomic data for the very weak CrII2026 line which blends with the ZnII2026 transition.
 
 VPFIT was run using the set-up file in this repository called vp_setup.dat.
